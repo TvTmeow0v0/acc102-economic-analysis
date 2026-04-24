@@ -22,7 +22,7 @@ Variables included:
 - Unemployment
 
 Data source: World Bank Open Data  
-Access date: [replace with your actual access date]
+Access date: [2026.4.24]
 
 Note: The dataset was organised into a CSV file for educational analysis.
 
